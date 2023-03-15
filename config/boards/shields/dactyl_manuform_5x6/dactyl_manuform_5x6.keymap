@@ -32,7 +32,7 @@
                 &trans  &kp LEFT &kp DOWN &kp RIGHT &trans &kp LPAR                &kp RPAR &kp KP_N4 &kp KP_N5 &kp KP_N6 &kp PLUS &kp EQUAL
                 &trans  &trans &trans &trans &trans &kp LBKT                &kp RBKT &kp KP_N1   &kp KP_N2   &kp KP_N3 &kp MINUS    &trans
                                &trans &trans                                              &kp PLUS &kp EQUAL
-                                             &trans &trans                &trans &mo ADJ
+                                             &trans &trans                &trans &trans
                                              &trans &trans                &trans &trans
                                              &trans &trans                &kp DEL &trans
             >;
